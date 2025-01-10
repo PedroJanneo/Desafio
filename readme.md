@@ -14,16 +14,27 @@ O desafio consiste em resolver uma série de problemas utilizando JavaScript no 
 
 1. Clone este repositório em sua máquina local:
    ```sh
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/PedroJanneo/Desafio
 
 Navegue até o diretório do projeto:
 
-Não tem nenhuma depencencia
+Não tem nenhuma dependência, só dar o init:
 ```sh
 npm init -y    
 ```
 
-Execute os arquivos JavaScript conforme necessário. Por exemplo, para executar o arquivo desafio5.js:
+Execute os arquivos JavaScript conforme necessário. Por exemplo, para executar qualquer arquivo, só dar o comando:
+```sh
+node desafio1.js
+
+```
+E mudar conforme o arquivo, se for pro desafio 2, colocar:
+```sh
+node desafio2.js
+
+```
+
+E assim por diante.
 
 # Desafios
 ## Desafio 1
